@@ -74,6 +74,15 @@ select {
   color: #f12b9f;
   outline: none;
 }
+filter-btn{
+  margin-right: 30px; 
+}
+filter-btn:focus {
+  outline: 1px dotted;
+  outline: 5px auto -webkit-focusring-color;
+  
+  }
+}
 
 #table-area th {
   text-align: center;

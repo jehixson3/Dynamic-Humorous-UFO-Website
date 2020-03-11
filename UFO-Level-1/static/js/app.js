@@ -38,4 +38,4 @@ function handleClick(){
 d3.selectAll("#filter-btn").on("click", handleClick);
 // Build Table with data.js 
 buildTable(tableData);
-
+  

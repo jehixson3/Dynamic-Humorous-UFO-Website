@@ -15,7 +15,7 @@ function buildTable(data){
         new_td = new_tr.append("td").text(value);	
     });
 })};
-
+ 
 buildTable(tableData)
 
 // Event that Triggers a Function When the Button is Clicked

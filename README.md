@@ -9,4 +9,4 @@ After entering site, the web user needs to scroll down to find a table with all 
 
 The information displayed includes the city, state, country, shape of the UFO, and comments based on each individual sighting.  This information can be filtered using the date field to reduce the number of sightings listed in the table on the html page. 
 
-The site is meant to be funny and humorous.  It was created using javascript and D3. 
+The site is meant to be funny.  It was created using javascript and D3. 

@@ -1,6 +1,6 @@
 Wake Up Sheeple
 
-A humourous webpage created to display UFO sightings across the globe. 
+A humourous webpage created to display information on UFO sightings across the globe. 
 
 The web user is greeted with an image of the Earth at night from space and the introduction:
 The extra-terrestrial menace has come to Earth and we here at ALIENS-R-REAL have collected all of the eye-witness reports we could to prove it!!
